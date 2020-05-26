@@ -9,8 +9,3 @@
   - Merge Branches
 
 ---
-
-
-AP -> SIT Project
-
-Owner: SIT -> UAT ->
