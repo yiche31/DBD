@@ -14,13 +14,13 @@
 
 Database 🔁 Project `only for development`
 
-step1 開發人員同步 Repository
+step 1. 開發人員同步 Repository
 
   * User Permission ❌
 
-step2 Merge Branches(`UAT`、`PROD`、*`Hotfix`*)
+step 2. Merge Branches(`UAT`、`PROD`、*`Hotfix`*)
 
-step3 Build Project
+step 3. Build Project
 
 ---
 
@@ -28,15 +28,15 @@ step3 Build Project
 
 Project ➡ Database
 
-step1 Compare Schema
+step 1. Compare Schema
 
-step2 Review SQL
+step 2. Review SQL
 
   * SQL Guidelines
 
-step3 Generate Scripts(SQLCMD)
+step 3. Generate Scripts(SQLCMD)
 
-step4 Test
+step 4. Test
 
 
 
