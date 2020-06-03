@@ -38,8 +38,6 @@ step 3. Generate Scripts(SQLCMD)
 
 step 4. Test
 
-
-
 ### 📋 結構描述變更記錄
 
 資料庫 -> 報表 -> 標準報表 -> 結構描述變更記錄
