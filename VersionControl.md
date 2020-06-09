@@ -12,29 +12,35 @@
 
 ### 🐱‍👓 AP
 
-Database 🔁 Project `only for development`
+Database Object 🔁 Project `Only For Development`
 
-step 1. 開發人員同步 Repository
+step 1. 開發人員同步 Repository (.sql)
 
-  * User Permission ❌
+  * Project Settings
+  * User Permission & Role ❌
+  * *Base Data*
 
-step 2. Merge Branches(`UAT`、`PROD`、*`Hotfix`*)
+step 2. Build Source Project
 
-step 3. Build Project
+step 3. Merge Branches(`UAT`、`PROD`、*`Hotfix`*)
+
+step 4. Build Target Project
 
 ---
 
 ### 🐱‍👤 Database Owner
 
-Project ➡ Database
+Project ➡ Database Object
 
 step 1. Compare Schema
 
 step 2. Review SQL
 
-  * SQL Guidelines
+ * SQL Guidelines
 
-step 3. Generate Scripts(SQLCMD)
+step 3. Generate Scripts
+    
+ * sqlcmd scripts to sql scripts
 
 step 4. Test
 
