@@ -45,4 +45,4 @@
           * ALTER
           * EXECUTE
 
-##### User Default Schema `dbo`
+##### User Default Schema: `dbo`
