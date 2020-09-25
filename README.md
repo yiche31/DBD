@@ -8,10 +8,11 @@
   - Operation Ability
     - SQL Server Data Tools (SSDT) 
     - Permission Management
-    - Schema Management
+    - Schema Management - Data Type
+    - Data Handling - Merge、CTE、Paging、Partition Table...
     - Index Building
-    - Data Handling - Merge¡BPaging¡BPartition Table...
     - Performance Case Studies...
+    - Transaction Locking
   - Dev Guideline
   - Data Driven - GraphQL、Expression Sql
   - Tools
