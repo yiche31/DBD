@@ -10,10 +10,10 @@
     - Permission Management
     - Schema Management
     - Index Building
-    - Data Handling - Merge¡BPaging¡BPartition Table...
+    - Data Handling - MergeÂ¡BPagingÂ¡BPartition Table...
     - Performance Case Studies...
   - Dev Guideline
-  - Data Driven - GraphQL¡BExpression Sql
+  - Data Driven - GraphQLã€Expression Sql
   - Tools
 
 ### Future
